@@ -6,3 +6,7 @@ my_web_sub_domain_name = "web"
 my_mail_sub_domain_name = "mail"
 my_local_aws_private_key_path = "C:/Users/Aditya/Downloads/test-key.pem"
 my_key_name = "test-key"
+my_web_want = "true"
+my_web_count = 1
+my_mail_want = "true"
+my_mail_count = 1
